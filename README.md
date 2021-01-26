@@ -1,3 +1,3 @@
 # news
 
-A new Flutter project.
+News - Flutter project.
